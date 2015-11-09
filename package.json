@@ -1,0 +1,20 @@
+{
+  "name": "eslint-angular_1.x-dapp",
+  "version": "1.0.0",
+  "description": "configure &amp; test ESLint with Angular 1.x",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrimalPriyanga/eslint-angular_1.x-dapp.git"
+  },
+  "author": "Srimal Priyanga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SrimalPriyanga/eslint-angular_1.x-dapp/issues"
+  },
+  "homepage": "https://github.com/SrimalPriyanga/eslint-angular_1.x-dapp#readme",
+  "dependencies": {}
+}
