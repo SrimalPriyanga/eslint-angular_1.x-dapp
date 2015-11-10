@@ -1,24 +1,21 @@
 {
+    "plugins": [
+        "angular"
+    ],
+    "globals": {
+        "angular": true
+    },
     "rules": {
-        "indent": [
-            2,
-            "tab"
-        ],
-        "quotes": [
-            2,
-            "single"
-        ],
-        "linebreak-style": [
-            2,
-            "unix"
-        ],
-        "semi": [
-            2,
-            "always"
-        ]
+        "indent": [ 2, "tab" ],
+        "quotes": [ 2, "single" ],
+        "linebreak-style": [ 2, "unix" ],
+        "semi": [ 2, "always" ],
+        "angular/controller_name": 0,
+        "if-curly-formatting": 1
     },
     "env": {
         "browser": true
     },
-    "extends": "eslint:recommended"
+    "extends": "eslint:recommended",
+    "extends": "angular"
 }
