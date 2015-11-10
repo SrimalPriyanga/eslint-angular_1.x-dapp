@@ -16,7 +16,12 @@
     "url": "https://github.com/SrimalPriyanga/eslint-angular_1.x-dapp/issues"
   },
   "homepage": "https://github.com/SrimalPriyanga/eslint-angular_1.x-dapp#readme",
-  "dependencies": {
-    "eslint": "^1.9.0"
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^1.9.0",
+    "eslint-config-angular": "^0.4.0",
+    "eslint-plugin-angular": "^0.13.0",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.1.0"
   }
 }
